@@ -34,7 +34,7 @@ This is the public mirror of my private repo, with personal info and prompts de-
 
 ## How to Run
 
-The whole suite (600+ tests) runs with no credentials needed:
+The whole suite of 600+ tests runs with no credentials needed:
 
 ```bash
 uv sync --frozen

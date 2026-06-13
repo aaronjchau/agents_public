@@ -55,5 +55,9 @@ data/
 *.log
 logs/
 
+# Image sources: keep the optimized assets/*.webp, not the large PNG exports
+assets/*.png
+
 # Claude Code workspace state (worktrees, plans, transcripts)
 .claude/
+.vercel
