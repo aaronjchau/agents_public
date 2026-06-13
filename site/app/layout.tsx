@@ -64,7 +64,7 @@ export default function RootLayout({
         <footer className="site-footer">
           <div className="wrap">
             <span>
-              <em>*</em>This is a public mirror of my personal production system
+              <em>*</em>This is a public mirror of my personal production system.
             </span>
           </div>
         </footer>
